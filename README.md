@@ -1,2 +1,0 @@
-# TeacherDirectory
-A Teacher Directory
