@@ -1,0 +1,5 @@
+to Run In Local server
+install django 2.2
+go to Project location
+satrt the serve by python manage.py runserver
+now open the browser and type http://localhost:8000
